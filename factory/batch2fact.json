@@ -1,0 +1,9 @@
+{
+	"name": "batch2fact",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9f823979-0795-4c99-90a0-33adcba914f5",
+		"tenantId": "b60d926a-3bfd-4074-b300-7f9bdfba4907"
+	}
+}
